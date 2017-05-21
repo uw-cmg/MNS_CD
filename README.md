@@ -1,6 +1,6 @@
 # MNS_CD
-This is the Cluster Dynamics code for evolution of Mn-Ni-Si in low-Cu RPV steels
-This readme file will include information for 1)solver information 2)input parameters to run code 3)explanation of output from code
+This is the Cluster Dynamics code for evolution of Mn-Ni-Si in low-Cu RPV steels.
+This readme file will include information for 1)solver information; 2)input parameters to run code; 3)explanation of output from code.
 1) Solver information.
 
    The solver used in this code is SUNDIALS (SUite of Nonlinearand DIfferential/ALgebraic Equation Solvers), which can be downloaded from website: https://computation.llnl.gov/projects/sundials. And more detail information about SUNDIALS can also be found from the website above. The module we used here is cvode.
