@@ -28,6 +28,7 @@ This readme file will include information for 1)solver information; 2)input para
    
    **Profile_3** contains particle size distribution of heterogeneous nucleated T6 phase 
 
+Relationship between parameter **runs** and irradiation time mentioned in 2):
 runs | Irradiation time (s) | 
 --- | --- |
 1| 1 |
