@@ -1,7 +1,9 @@
 # MNS_CD
 This is the Cluster Dynamics code for evolution of Mn-Ni-Si in low-Cu RPV steels. 
 
-Information regarding the thoery of this model is published at: H. Ke, P. Wells, P. D. Edmondson, N. Almirall, L. Barnard, G. R. Odette, D. Morgan, Thermodynamic and kinetic modeling of Mn-Ni-Si precipitates in low-Cu reactor pressure vessel steels, *Acta Materialia*, **138**(2017), pp10-26. 
+Information regarding the thoery of this model is published at: 
+
+   H. Ke, P. Wells, P. D. Edmondson, N. Almirall, L. Barnard, G. R. Odette, D. Morgan, Thermodynamic and kinetic modeling of Mn-Ni-Si precipitates in low-Cu reactor pressure vessel steels, *Acta Materialia*, **138**(2017), pp10-26. 
 
 ********
 **Please note this code is a research tool under development and still contains significant discrepancies in predictions compared to experiments. Please use with caution.
